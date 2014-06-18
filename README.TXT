@@ -20,3 +20,6 @@ JAYZMRT: ASR retrieval brainstorming. Beta testing. Chinese translations.
 # Other contributions #
 guul gul: Reported bugs in version 0.1.
 Kozec: Reported bugs in version 0.5.4.
+
+# added to github by apisKacak.. 
+# project added to netbean 8.0 IDE..
